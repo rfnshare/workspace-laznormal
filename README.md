@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rfnshare/workspace-laznormal">
-    <img src="daraz-logo.png" alt="Logo">
+    <img src="Daraz-Emblem.png" alt="Logo" height="100">
   </a>
 
   <h3 align="center">App Automation</h3>
@@ -44,7 +44,7 @@ This is an appium based framework that interacts with Daraz Android App and can 
     ```
     git pull
     ```
-3. Copy APK file & paste it in project apk folder.
+3. Copy APK file, create a folder name apk in project root directory & paste it in project apk folder.
     ```
     apk/appname.apk
     ```
