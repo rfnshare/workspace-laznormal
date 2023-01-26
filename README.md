@@ -102,12 +102,12 @@ Project Link: [Android Automation](https://github.com/rfnshare/workspace-laznorm
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/contributors-0-yellow?style=for-the-badge
-[contributors-url]: https://github.com/rfnshare/Whatsapp-Web-UI-Automation/graphs/contributors
+[contributors-url]: https://github.com/rfnshare/workspace-laznormal/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/froks-0-blue?style=for-the-badge
-[forks-url]: https://github.com/rfnshare/StraightIntLtd/network/members
+[forks-url]: https://github.com/rfnshare/workspace-laznormal/network/members
 [stars-shield]: https://img.shields.io/badge/stars-0-red?style=for-the-badge
-[stars-url]: https://github.com/rfnshare/Whatsapp-Web-UI-Automation/stargazers
+[stars-url]: https://github.com/rfnshare/workspace-laznormal/stargazers
 [issues-shield]: https://img.shields.io/badge/issues-0-success?style=for-the-badge
-[issues-url]: https://github.com/rfnshare/Whatsapp-Web-UI-Automation/issues
+[issues-url]: https://github.com/rfnshare/workspace-laznormal/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rfnshare
