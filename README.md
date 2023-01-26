@@ -29,9 +29,8 @@ Introduction
 
 This is an appium based framework that interacts with Daraz Android App and can be used to automate given below
 
-1. Going To Homepage
-2. Login Into App
-3. Validating Login
+1. Login Into App
+2. **Change App Build status to Online/Stage**
 
 # Setup
 
@@ -53,15 +52,22 @@ This is an appium based framework that interacts with Daraz Android App and can 
     ```
     pip install -r requirements.txt
     ```
+   
+5. For App Status Change, Run this script.
+    ```
+    python -m unittest TestCase.test_changeStatus
 
-5. Run this script.
+    ```
+   This will open a app in the android device & Change the app build status.
+
+6. For Login Run this script.
     ```
     python -m unittest TestCase.test_login
 
     ```
-   This will open a app in the android device & run the script.
+   This will open a app in the android device & login into Daraz.
 
-6. Generate HTML reports with run script include log.
+7. Generate HTML reports with run script include log.
     ```
     Will add later
 
