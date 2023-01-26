@@ -16,3 +16,11 @@ class HomePageLocator(object):
     pass_field = "(//*[@resource-id='com.daraz.android.dev:id/et_input_text'])[2]"  # xpath
     final_login = "com.daraz.android.dev:id/btn_next"  # id
     val_name = "com.daraz.android.dev:id/txt_name"  # id
+
+
+class NotificationsPageLocator(object):
+    check_notifications = "android:id/status_bar_latest_event_content"
+    entry = "//android.widget.TextView[@text='TestEntry: Online']"
+    mtop = "//android.widget.Button[@text='MTOP Env']"
+    stage_option = "//android.widget.CheckedTextView[@text='Stage']"
+    online_option = "//android.widget.CheckedTextView[@text='Online']"
